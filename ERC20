@@ -672,4 +672,10 @@ contract TONCONTRAT is ERC20 {
     function getBalanceOf(address account) public view returns (uint256) {
         return balanceOf(account); // Call balanceOf to get the balance
     }
-}
+} 
+
+
+
+
+
+UPDATE SOLO COMMINT 1
